@@ -1,10 +1,15 @@
 # Summer 2023 Internship Applications
 
-The summer 2023 internship grind has begun! Use this repo to share and keep track of any internship positions in SWE and Research roles
+https://img.shields.io/github/followers/hb0313?style=social
+https://img.shields.io/github/forks/hb0313/Summer2023-Intern?style=social
+https://img.shields.io/github/stars/hb0313/Summer2023-Intern?style=social
+https://img.shields.io/badge/location-US-success
+
+### The summer 2023 internship grind has begun! Use this repo to share and keep track of any internship positions in SWE and Research roles
 
 **Contribute by making a pull request!**  
 
-## The List
+### Good luck and happy hunting :tada:!
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
@@ -18,6 +23,7 @@ The summer 2023 internship grind has begun! Use this repo to share and keep trac
 |[Tesla](https://www.tesla.com/careers/search/job/software-engineering-internship-summer-2023-153316) | California | Bachelor’s, Master’s, PhD |
 |[Databricks](https://www.databricks.com/company/careers/open-positions?department=universityrecruiting&location=all) | Multiple | Bachelor's, Master's, Phd |
 |[IBM](https://www.ibm.com/employment/#jobs?%23jobs=&job-search=Internship%2520summer) | Multiple | Bachelor's, Master's, Phd |
+|[Verkada](https://jobs.lever.co/verkada?department=Engineering&commitment=Intern) | Multiple | Bachelor's, Master's, Phd |
 
 
 
