@@ -1,10 +1,13 @@
 # Summer 2023 Internship Applications
 
+
+Star repo and Fork to be updated
 [![Forks](https://img.shields.io/github/forks/hb0313/Summer2023-Intern?style=social)](https://github.com/hb0313/Summer2023-Intern/fork)
 [![Stars](https://img.shields.io/github/stars/hb0313/Summer2023-Intern?style=social)](https://github.com/hb0313/Summer2023-Intern/stargazers)
+
 [![Location](https://img.shields.io/badge/location-US-success)](https://www.google.com/maps/place/United+States/data=!4m2!3m1!1s0x54eab584e432360b:0x1c3bb99243deb742?sa=X&ved=2ahUKEwipmabUlu36AhW-F1kFHUqgDCIQ8gF6BAgJEAE)
 
-### The summer 2023 internship grind has begun! Use this repo to share and keep track of any internship positions in SWE and Research roles
+The summer 2023 internship grind has begun! Use this repo to share and keep track of any internship positions in SWE and Research roles
 
 **Contribute by making a pull request!**  
 
