@@ -30,8 +30,7 @@ The summer 2023 internship grind has begun! Use this repo to share and keep trac
 |[Verkada](https://jobs.lever.co/verkada?department=Engineering&commitment=Intern) | Multiple | Bachelor's, Master's, Phd |
 |[Adobe](https://careers.adobe.com/us/en/job/ADOBUSR131664EXTERNALENUS/2023-Intern-Software-Engineer-Machine-Learning) | CA, MA | Master's and Phd |
 |[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-CA-Santa-Clara/CPU-Verification-Engineer---New-College-Grad_JR1962993-1) | Multiple | Bachelor's, Master's and Phd (EE, CS, CE) |
-
-
+|[IMC](https://careers.imc.com/us/en/job/REQ-01961/Software-Engineer-Intern-Summer-2023) | CH | Bachelor's and Master's |
 
 
 
