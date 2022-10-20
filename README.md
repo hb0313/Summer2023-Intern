@@ -31,6 +31,8 @@ The summer 2023 internship grind has begun! Use this repo to share and keep trac
 |[Adobe](https://careers.adobe.com/us/en/job/ADOBUSR131664EXTERNALENUS/2023-Intern-Software-Engineer-Machine-Learning) | CA, MA | Master's and Phd |
 |[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-CA-Santa-Clara/CPU-Verification-Engineer---New-College-Grad_JR1962993-1) | Multiple | Bachelor's, Master's and Phd (EE, CS, CE) |
 |[IMC](https://careers.imc.com/us/en/job/REQ-01961/Software-Engineer-Intern-Summer-2023) | CH | Bachelor's and Master's |
+|[Amazon](https://www.amazon.jobs/en/jobs/2220337/software-development-engineer-in-test-internship-2023-us) | WA | SDE in test |
+|[Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us) | WA | SDE |
 
 
 
