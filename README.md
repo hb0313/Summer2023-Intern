@@ -1,7 +1,7 @@
 # Summer 2023 Internship Applications
 
 
-[![Forks](https://img.shields.io/github/forks/hb0313/Summer2023-Intern?style=social)](https://github.com/hb0313/Summer2023-Intern/fork) and [![Stars](https://img.shields.io/github/stars/hb0313/Summer2023-Intern?style=social)](https://github.com/hb0313/Summer2023-Intern/stargazers) to be updated!
+[![Stars](https://img.shields.io/github/stars/hb0313/Summer2023-Intern?style=social)](https://github.com/hb0313/Summer2023-Intern/stargazers) to be updated!
 
 
 [![Location](https://img.shields.io/badge/location-US-success)](https://www.google.com/maps/place/United+States/data=!4m2!3m1!1s0x54eab584e432360b:0x1c3bb99243deb742?sa=X&ved=2ahUKEwipmabUlu36AhW-F1kFHUqgDCIQ8gF6BAgJEAE)
@@ -28,6 +28,7 @@ The summer 2023 internship grind has begun! Use this repo to share and keep trac
 |[Databricks](https://www.databricks.com/company/careers/open-positions?department=universityrecruiting&location=all) | Multiple | Bachelor's, Master's, Phd |
 |[IBM](https://www.ibm.com/employment/#jobs?%23jobs=&job-search=Internship%2520summer) | Multiple | Bachelor's, Master's, Phd |
 |[Verkada](https://jobs.lever.co/verkada?department=Engineering&commitment=Intern) | Multiple | Bachelor's, Master's, Phd |
+|[Adobe](https://careers.adobe.com/us/en/job/ADOBUSR131664EXTERNALENUS/2023-Intern-Software-Engineer-Machine-Learning) | CA, MA | Master's and Phd |
 
 
 
