@@ -33,6 +33,7 @@ The summer 2023 internship grind has begun! Use this repo to share and keep trac
 |[IMC](https://careers.imc.com/us/en/job/REQ-01961/Software-Engineer-Intern-Summer-2023) | CH | Bachelor's and Master's |
 |[Amazon](https://www.amazon.jobs/en/jobs/2220337/software-development-engineer-in-test-internship-2023-us) | WA | SDE in test |
 |[Amazon](https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us) | WA | SDE |
+|[Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=internship&location=United+States&locationId=300000000149325&locationLevel=country) | Multiple | Multiple open positions |
 
 
 
